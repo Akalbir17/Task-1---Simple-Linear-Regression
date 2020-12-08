@@ -15,7 +15,7 @@ The steps used for solving the above problem statement are: -
    9. Prediction of the scores.
    10. Comparing Predicted and Actual Values
    11. Predicting the score for the required specification  i.e. 9.25 hours
-          The score for 9.25 hours is 93.69173248737538
+          - The score for 9.25 hours is 93.69173248737538
    12. Evaluating the model
         Methods used to evaluate the model are: -
          - Mean Absolute Error = 4.183859899002975
